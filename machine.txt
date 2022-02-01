@@ -1,0 +1,12 @@
+Cola
+0.75   20
+Ruby Red Blast
+1.00   10
+Lemon Fizz
+0.75   8
+Grape Soda
+0.90   5
+Citrus Flip
+0.85   0
+Habanero Surprise
+0.80   11
